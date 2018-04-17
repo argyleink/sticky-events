@@ -1,6 +1,6 @@
 # Sticky Events
 
-Events for `position: sticky`, **without** the need for `onscroll`.
+Events for `position: sticky`, without the need for `onscroll` listeners.
 
 Events:
 - `sticky-change`  Fired when an element becomes stuck or unstuck
